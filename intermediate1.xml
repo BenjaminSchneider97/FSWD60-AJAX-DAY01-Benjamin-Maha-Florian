@@ -46,46 +46,46 @@
 	</florian>
 	<maha>
 		<song id="song07">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>See You Again</title>
+			<artist> Wiz Khalifa</artist>
+			<genre>Pop</genre>
+			<country>USA</country>
+			<year>2015</year>
 		</song>
 		<song id="song08">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Andrea</title>
+			<artist>Nanci Ajaj</artist>
+			<genre>rap</genre>
+			<country>Sudan</country>
+			<year>2015</year>
 		</song>
 		<song id="song09">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Love of people</title>
+			<artist>Hussein El Sadig</artist>
+			<genre>jazz</genre>
+			<country>Sudan</country>
+			<year>2011</year>
 		</song>
 		<song id="song10">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Happy</title>
+			<artist>Pharrell Williams</artist>
+			<genre>pop</genre>
+			<country>USA</country>
+			<year>2014</year>
 		</song>
 		<song id="song11">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Ya Baladi Ya Haboub</title>
+			<artist>Mohamed Wardi</artist>
+			<genre>rock</genre>
+			<country>Sudan</country>
+			<year>1986</year>
 		</song>
 		<song id="song12">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>The Spring of life</title>
+			<artist>Osman Hussain</artist>
+			<genre>Folk</genre>
+			<country>Sudan</country>
+			<year>1970</year>
 		</song>
 	</maha>
 	<benjamin>
