@@ -1,136 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <favoritesongs>
-	<florian>
-		<song id="song01">
-			<title>Refugee</title>
-			<artist>Oi Va Voi</artist>
-			<genre>Crossover</genre>
-			<country>London</country>
-			<year>2004</year>
-		</song>
-		<song id="song02">
-			<title>Djelem Djelem</title>
-			<artist>Barcelona Gipsy Klezmer Orchestra</artist>
-			<genre>Klezmer</genre>
-			<country>Spain</country>
-			<year>2014</year>
-		</song>
-		<song id="song03">
-			<title>Arik Brauer</title>
-			<artist>Köpferl im Sand </artist>
-			<genre>Protest</genre>
-			<country>Austria</country>
-			<year>70s</year>
-		</song>
-		<song id="song04">
-			<title>Autobahn</title>
-			<artist>LaBrassBanda</artist>
-			<genre>PowerBrass</genre>
-			<country>Germany</country>
-			<year>2008</year>
-		</song>
-		<song id="song05">
-			<title>Śpij kochanie, śpij</title>
-			<artist>Kayah i Bregović</artist>
-			<genre>World</genre>
-			<country>Poland</country>
-			<year>1999</year>
-		</song>
-		<song id="song06">
-			<title>Sadtbrunser</title>
-			<artist>Georg Danzer
-			</artist>
-			<genre>Austropop</genre>
-			<country>Austria</country>
-			<year>70s</year>
-		</song>
-	</florian>
-	<maha>
-		<song id="song07">
-			<title>See You Again</title>
-			<artist> Wiz Khalifa</artist>
-			<genre>Pop</genre>
-			<country>USA</country>
-			<year>2015</year>
-		</song>
-		<song id="song08">
-			<title>Andrea</title>
-			<artist>Nanci Ajaj</artist>
-			<genre>rap</genre>
-			<country>Sudan</country>
-			<year>2015</year>
-		</song>
-		<song id="song09">
-			<title>Love of people</title>
-			<artist>Hussein El Sadig</artist>
-			<genre>jazz</genre>
-			<country>Sudan</country>
-			<year>2011</year>
-		</song>
-		<song id="song10">
-			<title>Happy</title>
-			<artist>Pharrell Williams</artist>
-			<genre>pop</genre>
-			<country>USA</country>
-			<year>2014</year>
-		</song>
-		<song id="song11">
-			<title>Ya Baladi Ya Haboub</title>
-			<artist>Mohamed Wardi</artist>
-			<genre>rock</genre>
-			<country>Sudan</country>
-			<year>1986</year>
-		</song>
-		<song id="song12">
-			<title>The Spring of life</title>
-			<artist>Osman Hussain</artist>
-			<genre>Folk</genre>
-			<country>Sudan</country>
-			<year>1970</year>
-		</song>
-	</maha>
-	<benjamin>
-		<song id="song13">
-			<title>Forgotton</title>
-			<artist>Linkin Park</artist>
-			<genre>Nu Metal</genre>
-			<country>America</country>
-			<year>2000</year>
-		</song>
-		<song id="song14">
-			<title>Back in Black</title>
-			<artist>AC/DC</artist>
-			<genre>Rock</genre>
-			<country>America</country>
-			<year>1980</year>
-		</song>
-		<song id="song15">
-			<title>2nd Sucks</title>
-			<artist>A Day To Remember</artist>
-			<genre>Metal</genre>
-			<country>America</country>
-			<year>2004</year>
-		</song>
-		<song id="song16">
-			<title>In the End</title>
-			<artist>Linkin Park</artist>
-			<genre>Pop Rock</genre>
-			<country>America</country>
-			<year>2000</year>
-		</song>
-		<song id="song17">
-			<title>In too Deep</title>
-			<artist>Sum41</artist>
-			<genre>Punk Rock</genre>
-			<country>America</country>
-			<year>2005</year>
-		</song>
-		<song id="song18">
-			<title>Never too Late</title>
-			<artist>Three Days Grace</artist>
-			<genre>Rock</genre>
-			<country>America</country>
-			<year>2008</year>
-		</song>
-	</benjamin>
+	<song id="song01">
+		<title>Refugee</title>
+		<artist>Oi Va Voi</artist>
+		<genre>Crossover</genre>
+		<country>London</country>
+		<year>2004</year>
+	</song>
+	<song id="song02">
+		<title>Djelem Djelem</title>
+		<artist>Barcelona Gipsy Klezmer Orchestra</artist>
+		<genre>Klezmer</genre>
+		<country>Spain</country>
+		<year>2014</year>
+	</song>
+	<song id="song03">
+		<title>Arik Brauer</title>
+		<artist>Köpferl im Sand </artist>
+		<genre>Protest</genre>
+		<country>Austria</country>
+		<year>70s</year>
+	</song>
+	<song id="song04">
+		<title>Autobahn</title>
+		<artist>LaBrassBanda</artist>
+		<genre>PowerBrass</genre>
+		<country>Germany</country>
+		<year>2008</year>
+	</song>
+	<song id="song05">
+		<title>Śpij kochanie, śpij</title>
+		<artist>Kayah i Bregović</artist>
+		<genre>World</genre>
+		<country>Poland</country>
+		<year>1999</year>
+	</song>
+	<song id="song06">
+		<title>Sadtbrunser</title>
+		<artist>Georg Danzer
+		</artist>
+		<genre>Austropop</genre>
+		<country>Austria</country>
+		<year>70s</year>
+	</song>
+	<song id="song07">
+		<title>See You Again</title>
+		<artist> Wiz Khalifa</artist>
+		<genre>Pop</genre>
+		<country>USA</country>
+		<year>2015</year>
+	</song>
+	<song id="song08">
+		<title>Andrea</title>
+		<artist>Nanci Ajaj</artist>
+		<genre>rap</genre>
+		<country>Sudan</country>
+		<year>2015</year>
+	</song>
+	<song id="song09">
+		<title>Love of people</title>
+		<artist>Hussein El Sadig</artist>
+		<genre>jazz</genre>
+		<country>Sudan</country>
+		<year>2011</year>
+	</song>
+	<song id="song10">
+		<title>Happy</title>
+		<artist>Pharrell Williams</artist>
+		<genre>pop</genre>
+		<country>USA</country>
+		<year>2014</year>
+	</song>
+	<song id="song11">
+		<title>Ya Baladi Ya Haboub</title>
+		<artist>Mohamed Wardi</artist>
+		<genre>rock</genre>
+		<country>Sudan</country>
+		<year>1986</year>
+	</song>
+	<song id="song12">
+		<title>The Spring of life</title>
+		<artist>Osman Hussain</artist>
+		<genre>Folk</genre>
+		<country>Sudan</country>
+		<year>1970</year>
+	</song>
+	<song id="song13">
+		<title>Forgotton</title>
+		<artist>Linkin Park</artist>
+		<genre>Nu Metal</genre>
+		<country>America</country>
+		<year>2000</year>
+	</song>
+	<song id="song14">
+		<title>Back in Black</title>
+		<artist>AC/DC</artist>
+		<genre>Rock</genre>
+		<country>America</country>
+		<year>1980</year>
+	</song>
+	<song id="song15">
+		<title>2nd Sucks</title>
+		<artist>A Day To Remember</artist>
+		<genre>Metal</genre>
+		<country>America</country>
+		<year>2004</year>
+	</song>
+	<song id="song16">
+		<title>In the End</title>
+		<artist>Linkin Park</artist>
+		<genre>Pop Rock</genre>
+		<country>America</country>
+		<year>2000</year>
+	</song>
+	<song id="song17">
+		<title>In too Deep</title>
+		<artist>Sum41</artist>
+		<genre>Punk Rock</genre>
+		<country>America</country>
+		<year>2005</year>
+	</song>
+	<song id="song18">
+		<title>Never too Late</title>
+		<artist>Three Days Grace</artist>
+		<genre>Rock</genre>
+		<country>America</country>
+		<year>2008</year>
+	</song>
 </favoritesongs>
