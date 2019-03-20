@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Songs</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+</head>
+<style>
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td{
+   padding: 5px;
+}
+.navbar{
+  width: 100%;
+  background-color: #e84393;
+  height: 50px;
+  border-radius: 0;
+  display: flex;
+}
+.navbar h3{
+  padding: 0;
+  margin: auto auto auto 15px;
+  color: #fff;
+}
+.pageheader{
+  text-align: center;
+}
+hr{
+  border-color: #e84393;
+}
+#content{
+  margin: 25px auto;
+}
+</style>
+
+<body>
+  <div class="navbar">
+    <h3><i class="fas fa-heart"></i> My Song library</h3>
+  </div>
+  <div class="container">
+    <div class="pageheader">
+      <h1>My favourite songs collection</h1>
+      <hr>
+      <button class="btn btn-danger" type="button" onclick="loadDoc()">Show songs</button>
+    </div>
+   <table id="content"></table>
+  </div>
+   <script>
+    var a = 1;
+   function loadDoc() {
+    a++;
+       var xhttp = new XMLHttpRequest();
+       xhttp.onreadystatechange = function() {
+           if (this.readyState == 4 && this.status == 200) {
+               myFunction(this,a);
+           }
+       };
+       xhttp.open("GET", "intermediate1.xml", true);
+       xhttp.send();
+   }
+   function myFunction(xml,a) {
+       var i;
+       var xmlDoc = xml.responseXML;
+       var table = "<tr><th>Title</th><th>Artist</th><th>Genre</th><th>Country</th><th>Year</th></tr>";
+       var x = xmlDoc.getElementsByTagName("song");
+       for (i = 0; i < x.length; i++) {
+           table += "<tr><td>" +
+               x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue + "</td><td>" +
+               x[i].getElementsByTagName("artist")[0].childNodes[0].nodeValue + "</td><td>" +
+               x[i].getElementsByTagName("genre")[0].childNodes[0].nodeValue + "</td><td>" +
+               x[i].getElementsByTagName("country")[0].childNodes[0].nodeValue + "</td><td>" +
+               x[i].getElementsByTagName("year")[0].childNodes[0].nodeValue + "</td></tr>";
+       }
+       if(a%2 ==0){
+       document.getElementById("content").innerHTML = table;
+     }else{
+      document.getElementById("content").innerHTML = "";
+     }
+   }
+   </script>
+</body>
+</html>
