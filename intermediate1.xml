@@ -6,42 +6,43 @@
 			<artist>Oi Va Voi</artist>
 			<genre>Crossover</genre>
 			<country>London</country>
-			<year>2000</year>
+			<year>2004</year>
 		</song>
 		<song id="song02">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Djelem Djelem</title>
+			<artist>Barcelona Gipsy Klezmer Orchestra</artist>
+			<genre>Klezmer</genre>
+			<country>Spain</country>
+			<year>2014</year>
 		</song>
 		<song id="song03">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Arik Brauer</title>
+			<artist>Köpferl im Sand </artist>
+			<genre>Protest</genre>
+			<country>Austria</country>
+			<year>70s</year>
 		</song>
 		<song id="song04">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Autobahn</title>
+			<artist>LaBrassBanda</artist>
+			<genre>PowerBrass</genre>
+			<country>Germany</country>
+			<year>2008</year>
 		</song>
 		<song id="song05">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Śpij kochanie, śpij</title>
+			<artist>Kayah i Bregović</artist>
+			<genre>World</genre>
+			<country>Poland</country>
+			<year>1999</year>
 		</song>
 		<song id="song06">
-			<title></title>
-			<artist></artist>
-			<genre></genre>
-			<country></country>
-			<year></year>
+			<title>Sadtbrunser</title>
+			<artist>Georg Danzer
+			</artist>
+			<genre>Austropop</genre>
+			<country>Austria</country>
+			<year>70s</year>
 		</song>
 	</florian>
 	<maha>
