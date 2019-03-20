@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<favoritesongs>
+	<florian>
+		<song id="song01">
+			<title>Refugee</title>
+			<artist>Oi Va Voi</artist>
+			<genre>Crossover</genre>
+			<country>London</country>
+			<year>2000</year>
+		</song>
+		<song id="song02">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song03">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song04">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song05">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song06">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+	</florian>
+	<maha>
+		<song id="song07">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song08">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song09">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song10">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song11">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song12">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+	</maha>
+	<benjamin>
+		<song id="song13">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song14">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song15">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song16">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song17">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+		<song id="song18">
+			<title></title>
+			<artist></artist>
+			<genre></genre>
+			<country></country>
+			<year></year>
+		</song>
+	</benjamin>
+</favoritesongs>
